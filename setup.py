@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='tsviewer',
-      version='0.1.0',
+      version='0.1.1',
       description='A GUI for visualizing time series data',
       long_description=('Visualing time series data (such as temperature,'
                         ' humidity, weight, height, etc) is a common task in'
