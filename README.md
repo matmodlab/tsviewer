@@ -1,2 +1,3 @@
 # tsviewer
-A GUI for visualizing time series data
+
+A GUI for visualizing time series data.
