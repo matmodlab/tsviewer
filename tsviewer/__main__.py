@@ -20,7 +20,6 @@ from chaco.api import *
 from traits.api import *
 from traitsui.api import *
 from chaco.tools.api import *
-from enable.api import ComponentEditor
 from pyface.api import FileDialog, OK as pyOK
 from chaco.example_support import COLOR_PALETTE
 from traitsui.tabular_adapter import TabularAdapter
