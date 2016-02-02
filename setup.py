@@ -51,5 +51,5 @@ setup(name='tsviewer',
                     'console_scripts': ['tsviewer=tsviewer.__main__:main'],
                    },
       install_requires=['numpy', 'traits', 'traitsui', 'chaco', 'pyface',
-                        'tabfileio'],
+                        'kiwisolver', 'tabfileio'],
       zip_safe=False)
